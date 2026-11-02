@@ -27,6 +27,6 @@ Set `local debug_enabled = false` to stop writing the diagnostic file.
 
 ## Release validation
 
-This package is a **release candidate**, not yet the final tested Gold Standard. Verify both supported aircraft in X-Plane 11, including manual adjustments after startup, and check that the script is not moved to `Scripts (Quarantine)`.
+Version 1.0 has been successfully tested with both the Zibo 737-800 and Laminar Research 737-800 in X-Plane 11, including automatic initialization, manuel pilot adjustments and Lua script reloads.
 
 Aircraft detection uses the ICAO code `B738` and recognizable aircraft folder names (`B737-800X`/`Zibo` or `Laminar Research/Boeing B737-800`). Renamed aircraft folders may need the detection rules adjusted.
