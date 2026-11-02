@@ -1,4 +1,4 @@
-# B738 Auto Minimums — v1.0 release candidate
+# B738 Auto Minimums — v1.0 
 
 FlyWithLua script for **X-Plane 11** that initializes the Captain's minimums altitude once after aircraft loading. Default: **200 ft**. Later manual adjustments by the pilot are not overwritten.
 
